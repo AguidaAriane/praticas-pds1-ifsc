@@ -23,4 +23,37 @@ Botão de Opção : JOptionPane
 
 Caixa de Combinação :JComboBox  
 
- 
+ 4) Quais são os propósitos dos layouts no Swing? E quais são os layouts possíveis?
+R: Gerenciamento de layout consiste no processo dedeterminar o tamanho e a posição dos componentes.Ele pode ser feito usando-se posicionamento 
+absoluto. 
+Tipos de layouts : 
+Layout físico posicional.
+Layout físico funcional.
+Layout físico linear.
+Layout físico celular.
+
+5) Como é possível fazer a validação de entrada de dados em campos de texto?
+R: Utiliza isEmpty(), para fazer a validação.
+
+6) Pesquise e descreva três principais características entre a biblioteca Swing, a biblioteca AWT (Abstract Window Toolkit) e o JavaFX?
+   blioteca AWT: >possui os primeiros componentes gráficos que surgiram no java(janelas, botões, rotulos, campo de texto, lista etc).
+                 > Eram muito utilizados quando ainda não existia o pacote Swing.
+                 > Eles possuem uma aparência mais "padrão".
+   
+   Blioteca Swing : > O pacote Swing é uma evolução do pacote AWT.
+                    > possui quase todos os componentes que já existiam no pacote AWT, porém com uma interface gráfica mais 
+                     evoluida e com maiores efeitos.
+                    > Os componentes Swing começam com a letra "J". Exemplo: Buttom no AWT, seria JButtom no Swing.
+                    
+   JavaFX : > Permite que os desenvolvedores integrem gráficos de vetor, recursos Web de animação, 
+   áudio e vídeo em uma aplicação rica, interativa e imersiva.
+            > Estende a tecnologia Java permitindo o uso de qualquer biblioteca Java em uma aplicação JavaFX.
+            > Permite um fluxo de trabalho eficiente de designer para desenvolvedor.
+            
+    7) Pesquise o conceito de “Look and Feel” dentro do contexto de interfaces gráficas com Swing no Java. Procure alguns exemplos de temas, 
+    como o tema FlatLaf.
+    R : Look and Feel : é um termo usado na descrição dos produtos e áreas, como a concepção de produtos, marketing, branding e trademarking, 
+    para descrever as principais características da sua aparência.
+    
+    
+                    
